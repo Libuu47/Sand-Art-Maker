@@ -16,7 +16,7 @@ A small machine that can generate patterns in sand with a marble.You can change 
 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 14 49 46" src="https://github.com/user-attachments/assets/85ce7d77-3260-419c-b71e-94868cfe62fd" />
 
-Parts used:
+Parts used:                                                                                                                                                                                
 2x AAA Batteries                                                                                                                                                                             
 Power Cable Kit with 2mm Spade Terminals                                                                                                                                                     
 D4x2mm Round Magnet                                                                                                                                                                          
