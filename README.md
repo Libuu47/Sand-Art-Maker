@@ -15,14 +15,3 @@ A small machine that can generate patterns in sand with a marble.You can change 
 3rd layer:
 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 14 49 46" src="https://github.com/user-attachments/assets/85ce7d77-3260-419c-b71e-94868cfe62fd" />
-
-Parts used:                                                                                                                                                                                
-2x AAA Batteries                                                                                                                                                                             
-Power Cable Kit with 2mm Spade Terminals                                                                                                                                                     
-D4x2mm Round Magnet                                                                                                                                                                          
-030 Micro DC Motor                                                                                                                                                                           
-AAA Battery Terminal                                                                                                                                                                         
-1:49.7Dual-axis Plastic Reduction- Gear Kit                                                                                                                                                  
-8mm Stainless Steel Balls                                                                                                                                                                    
-I brought the Makers Beginner Kit from Bambulab:                                                                                                                                             
-https://eu.store.bambulab.com/de/products/makers-beginner-kit?id=53583918530908                                                                                                              
