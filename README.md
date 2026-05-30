@@ -4,21 +4,10 @@ A small machine that can generate patterns in sand with a marble.You can change 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 13 55 48" src="https://github.com/user-attachments/assets/f4b78e25-82fe-4925-b097-96726cd4a93e" />
 
 
-1st layer:
-
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/91bd1dcf-2200-43d5-a3e5-92fbe4a227a7" />
-
-2nd layer:
-
-<img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 14 49 46 (4)" src="https://github.com/user-attachments/assets/ba19fa09-cea0-4f4d-a831-d881779ca390" />
-
-3rd layer:
-
-<img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 14 49 46" src="https://github.com/user-attachments/assets/85ce7d77-3260-419c-b71e-94868cfe62fd" />
-
 # How to build
 
 1. Buy and print everything needed
+
 2. Take all the gears and put them in like this:
 
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7c602c66-388f-4730-9224-8b455d7606dd" />
@@ -79,7 +68,11 @@ on the other side put the brick-like thing into the lever and push it down (the 
 
 12. Now connect the marble with an magnet and put it in the sand then start the machine
  
- <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/50bf8f36-2f5b-4e37-b5eb-d33d821651d8" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/50bf8f36-2f5b-4e37-b5eb-d33d821651d8" />
+
+# Circut diagram
+
+<img width="1221" height="1395" alt="WhatsApp Image 2026-05-30 at 20 27 36" src="https://github.com/user-attachments/assets/2c7e0d24-ed27-4662-943a-77a0de25ada0" />
 
 
 
